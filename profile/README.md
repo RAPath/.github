@@ -11,7 +11,7 @@ RAPath is an open, community-maintained reference for medical device regulation 
 | Jurisdiction | Status | URL |
 |-------------|--------|-----|
 | 🇦🇺 **Australia (TGA)** | Live | [rapath.github.io/au](https://rapath.github.io/au) |
-| 🇪🇺 **EU MDR / IVDR** | In progress | rapath.github.io/eu *(coming soon)* |
+| 🇪🇺 **EU MDR / IVDR** | Live | [rapath.github.io/eu](https://rapath.github.io/eu) |
 | 🇺🇸 **USA (FDA)** | Planned | rapath.github.io/us |
 | 🇬🇧 **UK (MHRA)** | Planned | rapath.github.io/uk |
 | 🇨🇦 **Canada (Health Canada)** | Planned | rapath.github.io/ca |
