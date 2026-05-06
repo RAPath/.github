@@ -36,12 +36,13 @@ RAPath sits between official sources and the reader — structured, searchable, 
 ## Repositories
 
 | Repository | Description |
-|-----------|-------------|
-| [RAPath/au](https://github.com/RAPath/au) | Australian TGA — medical devices and IVDs |
-| RAPath/eu *(coming soon)* | EU MDR (2017/745) and IVDR (2017/746) |
-| RAPath/us *(planned)* | US FDA — 510(k), PMA, De Novo |
-| RAPath/uk *(planned)* | UK MHRA post-Brexit framework |
-| RAPath/ca *(planned)* | Health Canada medical device licensing |
+| :--- | :--- |
+| [RAPath/au](https://github.com/RAPath/au) | **Australian TGA** — medical devices and IVDs |
+| [RAPath/eu](https://github.com/RAPath/eu) | **EU MDR** (2017/745) and **IVDR** (2017/746) |
+| [RAPath/hc](https://github.com/RAPath/hc) | **Health Canada** medical device licensing |
+| [RAPath/sg](https://github.com/RAPath/sg) | **Singapore HSA** regulatory framework |
+| RAPath/us *(planned)* | **US FDA** — 510(k), PMA, De Novo |
+| RAPath/uk *(planned)* | **UK MHRA** post-Brexit framework |
 
 ---
 
