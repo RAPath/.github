@@ -42,7 +42,7 @@ RAPath sits between official sources and the reader — structured, searchable, 
 | [RAPath/hc](https://github.com/RAPath/hc) | **Health Canada** medical device licensing |
 | [RAPath/sg](https://github.com/RAPath/sg) | **Singapore HSA** regulatory framework |
 | RAPath/us *(planned)* | **US FDA** — 510(k), PMA, De Novo |
-| RAPath/uk *(planned)* | **UK MHRA** post-Brexit framework |
+| [RAPath/uk](https://github.com/RAPath/uk) | **UK MHRA** post-Brexit framework |
 
 ---
 
